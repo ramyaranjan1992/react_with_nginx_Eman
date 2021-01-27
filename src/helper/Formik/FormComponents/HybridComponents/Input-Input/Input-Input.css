@@ -1,0 +1,12 @@
+.form__control__field__div{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.input__field1{
+    flex: .05;
+}
+
+.input__field2{
+    flex: 1;
+}

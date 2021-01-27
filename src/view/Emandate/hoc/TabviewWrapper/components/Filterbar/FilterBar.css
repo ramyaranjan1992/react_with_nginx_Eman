@@ -1,0 +1,30 @@
+.filterbar__container{
+    display: flex;
+    padding: 50px 20px;
+    margin:-3px 0 11px 0;
+    /* background-color: #ccc; */
+    background-color:#dae0df;
+    /* background-image: url('../../../../../../assets/images/sabpaisa-logo.png'); */
+    /* background-repeat: repeat; */
+    border-radius: 10px;
+    justify-content: space-between;
+
+}
+
+.filterbar__searchbox{
+    display: flex;
+    width: 40%;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.filterbar__dropdown{
+    display: flex;
+    width: 30%;
+}
+
+.filterbar__buttons{
+    display: flex;
+    width: 20%;
+    justify-content: space-evenly;
+}
